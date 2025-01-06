@@ -1,2 +1,0 @@
-basic Python commands
-print("Ahoj, světe!")
